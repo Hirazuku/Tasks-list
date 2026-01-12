@@ -5,7 +5,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "My-virtual-CV",
+		"liveServer.settings.multiRootWorkspaceName": "Todo list",
 		"liveServer.settings.port": 5501
 	}
 }
